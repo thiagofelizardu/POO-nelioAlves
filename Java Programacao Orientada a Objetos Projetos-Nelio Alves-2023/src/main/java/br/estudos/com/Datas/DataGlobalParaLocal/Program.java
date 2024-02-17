@@ -18,9 +18,6 @@ public class Program {
         LocalDateTime r3 = LocalDateTime.ofInstant(d03, ZoneId.systemDefault());
         LocalDateTime r4 = LocalDateTime.ofInstant(d03, ZoneId.of("Portugal"));
 
-
-
-
         System.out.println(r2);
         System.out.println(r3);
         System.out.println(r4);
