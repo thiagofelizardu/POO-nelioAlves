@@ -44,7 +44,6 @@ public class Worker {
         return sum;
     }
 
-
     public String getName() {
         return name;
     }
@@ -52,13 +51,6 @@ public class Worker {
     public void setName(String name) {
         this.name = name;
     }
-
-
-
-
-
-
-
 
     public Departament getDepartament() {
         return departament;

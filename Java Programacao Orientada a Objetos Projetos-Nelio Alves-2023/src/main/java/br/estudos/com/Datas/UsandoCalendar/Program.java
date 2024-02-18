@@ -15,6 +15,7 @@ public class Program {
         System.out.println(simpleDateFormat.format(d));
 
         Calendar cal = Calendar.getInstance();
+        System.out.println(cal.toInstant());
         cal.setTime(d);
         cal.add(Calendar.HOUR_OF_DAY, 4);
         d = cal.getTime();
