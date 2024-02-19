@@ -1,4 +1,4 @@
-package herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities;
+package br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting.entities;
 
 public class SavingsAccount extends Account{
 

@@ -1,6 +1,8 @@
-package herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities;
+package br.estudos.com.herancaEpolimorfismo.heranca.Sobreposicao.entities;
 
-public class BusinessAccount extends Account{
+
+
+public class BusinessAccount extends Account {
 
     private Double loanLimit;
 
@@ -11,6 +13,11 @@ public class BusinessAccount extends Account{
     public BusinessAccount(Integer number, String holder, Double balance, Double loanLimit) {
         super(number, holder, balance);
         this.loanLimit = loanLimit;
+    }
+    @Override
+    public void withdraw(double amount){
+        super.withdraw(amount);
+        balance -= 2.0;
     }
 
     public void loan(double amount){

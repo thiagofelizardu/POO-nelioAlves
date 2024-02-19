@@ -1,8 +1,6 @@
-package herança.polimorfismo.Sobreposicao.entities;
+package br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting.entities;
 
-import herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities.Account;
-
-public class BusinessAccount extends Account {
+public class BusinessAccount extends Account{
 
     private Double loanLimit;
 

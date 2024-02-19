@@ -1,4 +1,4 @@
-package herança.polimorfismo.Sobreposicao.entities;
+package br.estudos.com.herancaEpolimorfismo.heranca.Sobreposicao.entities;
 
 public class Account {
 
@@ -38,7 +38,7 @@ public class Account {
     }
 
     public void withdraw(double amount){
-        balance -= amount;
+        balance -= amount + 5.0;
     }
 
     public void deposit(double amount){

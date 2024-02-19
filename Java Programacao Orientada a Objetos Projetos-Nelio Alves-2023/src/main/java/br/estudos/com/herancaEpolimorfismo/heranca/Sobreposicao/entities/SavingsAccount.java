@@ -1,8 +1,7 @@
-package herança.polimorfismo.Sobreposicao.entities;
+package br.estudos.com.herancaEpolimorfismo.heranca.Sobreposicao.entities;
 
-import herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities.Account;
 
-public class SavingsAccount extends Account {
+public  class SavingsAccount extends Account {
 
     private Double interestRate;
 
@@ -14,7 +13,10 @@ public class SavingsAccount extends Account {
         super(number, holder, balance);
         this.interestRate = interestRate;
     }
-
+    @Override
+    public void withdraw(double amount){
+        balance -= amount;
+    }
 
     public void updateBalance() {
         balance += balance * interestRate;

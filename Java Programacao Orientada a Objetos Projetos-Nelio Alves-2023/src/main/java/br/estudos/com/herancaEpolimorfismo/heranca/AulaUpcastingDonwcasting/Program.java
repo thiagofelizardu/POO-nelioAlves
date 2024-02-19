@@ -1,9 +1,9 @@
-package herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting;
+package br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting;
 
 
-import herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities.Account;
-import herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities.BusinessAccount;
-import herança.polimorfismo.tudo.sobre.heranca.AulaUpcastingDonwcasting.entities.SavingsAccount;
+import br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting.entities.Account;
+import br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting.entities.BusinessAccount;
+import br.estudos.com.herancaEpolimorfismo.heranca.AulaUpcastingDonwcasting.entities.SavingsAccount;
 
 
 public class Program {
