@@ -1,4 +1,4 @@
-package br.estudos.com.ExercicioStringBuilder.entities;
+package br.estudos.com.Exercicios.ExercicioStringBuilder.entities;
 
 public class Comment {
     private String text;

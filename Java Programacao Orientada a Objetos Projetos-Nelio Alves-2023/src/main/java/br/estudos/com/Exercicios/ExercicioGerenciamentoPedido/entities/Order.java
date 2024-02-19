@@ -1,4 +1,4 @@
-package br.estudos.com.ExercicioGerenciamentoPedido.entities;
+package br.estudos.com.Exercicios.ExercicioGerenciamentoPedido.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

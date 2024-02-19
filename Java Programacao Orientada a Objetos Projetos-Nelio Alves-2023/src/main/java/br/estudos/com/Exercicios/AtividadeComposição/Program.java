@@ -1,9 +1,9 @@
-package br.estudos.com.AtividadeComposição;
+package br.estudos.com.Exercicios.AtividadeComposição;
 
-import br.estudos.com.AtividadeComposição.etities.Departament;
-import br.estudos.com.AtividadeComposição.etities.HourContract;
-import br.estudos.com.AtividadeComposição.etities.Worker;
-import br.estudos.com.AtividadeComposição.etities.enums.WorkerLevel;
+import br.estudos.com.Exercicios.AtividadeComposição.etities.Departament;
+import br.estudos.com.Exercicios.AtividadeComposição.etities.HourContract;
+import br.estudos.com.Exercicios.AtividadeComposição.etities.Worker;
+import br.estudos.com.Exercicios.AtividadeComposição.etities.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

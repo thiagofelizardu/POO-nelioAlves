@@ -1,4 +1,4 @@
-package br.estudos.com.ExercicioGerenciamentoPedido.entities;
+package br.estudos.com.Exercicios.ExercicioGerenciamentoPedido.entities;
 
 public enum OrderStatus {
 

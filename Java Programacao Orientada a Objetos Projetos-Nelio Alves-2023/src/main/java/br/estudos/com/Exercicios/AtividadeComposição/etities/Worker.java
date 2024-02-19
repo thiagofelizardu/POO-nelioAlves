@@ -1,6 +1,6 @@
-package br.estudos.com.AtividadeComposição.etities;
+package br.estudos.com.Exercicios.AtividadeComposição.etities;
 
-import br.estudos.com.AtividadeComposição.etities.enums.WorkerLevel;
+import br.estudos.com.Exercicios.AtividadeComposição.etities.enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.Calendar;

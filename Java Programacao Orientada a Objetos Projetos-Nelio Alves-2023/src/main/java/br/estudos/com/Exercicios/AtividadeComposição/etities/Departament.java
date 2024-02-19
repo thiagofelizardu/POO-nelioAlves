@@ -1,4 +1,4 @@
-package br.estudos.com.AtividadeComposição.etities;
+package br.estudos.com.Exercicios.AtividadeComposição.etities;
 
 public class Departament {
 

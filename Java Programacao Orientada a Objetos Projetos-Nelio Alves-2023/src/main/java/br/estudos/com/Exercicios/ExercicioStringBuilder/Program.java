@@ -1,7 +1,7 @@
-package br.estudos.com.ExercicioStringBuilder;
+package br.estudos.com.Exercicios.ExercicioStringBuilder;
 
-import br.estudos.com.ExercicioStringBuilder.entities.Comment;
-import br.estudos.com.ExercicioStringBuilder.entities.Post;
+import br.estudos.com.Exercicios.ExercicioStringBuilder.entities.Comment;
+import br.estudos.com.Exercicios.ExercicioStringBuilder.entities.Post;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

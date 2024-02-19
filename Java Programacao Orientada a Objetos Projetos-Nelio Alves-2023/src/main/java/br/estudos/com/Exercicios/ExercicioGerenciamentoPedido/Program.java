@@ -1,6 +1,6 @@
-package br.estudos.com.ExercicioGerenciamentoPedido;
+package br.estudos.com.Exercicios.ExercicioGerenciamentoPedido;
 
-import br.estudos.com.ExercicioGerenciamentoPedido.entities.*;
+import br.estudos.com.Exercicios.ExercicioGerenciamentoPedido.entities.*;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
