@@ -1,6 +1,6 @@
-package br.estudos.com.lista.exercicio;
+package br.estudos.com.listas.exercicio;
 
-import br.estudos.com.lista.exercicio.entities.Employee;
+import br.estudos.com.listas.exercicio.entities.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

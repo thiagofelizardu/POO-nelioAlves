@@ -1,4 +1,4 @@
-package br.estudos.com.lista.aula1introdução;
+package br.estudos.com.listas.aula1introdução;
 
 import java.util.ArrayList;
 import java.util.List;

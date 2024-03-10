@@ -1,4 +1,4 @@
-package br.estudos.com.lista.exercicio.entities;
+package br.estudos.com.listas.exercicio.entities;
 
 public class Employee {
 
