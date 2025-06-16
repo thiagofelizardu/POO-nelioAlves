@@ -21,7 +21,7 @@ public class Program {
         // DOWNCASTING
 
         //BusinessAccount acc4 = acc2; nao tem como converter de Account para BusinessAccount
-        //mas forcansdo o casting tem
+        //mas forcando o casting tem
         BusinessAccount acc4 = (BusinessAccount) acc2;
         acc4.loan(100.0);
 
